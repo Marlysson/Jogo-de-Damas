@@ -5,7 +5,7 @@ Projeto para implementar um jogo de damas feito com:
 - CSS
 - Javascript ( VanillaJS )
 
-##A Fazer
+## Tarefas à fazer
 
 - [ ] Modal com seleção das cores pelos jogadores
 - [ ] Painel com pontuação e peças obtidas do adversário
