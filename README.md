@@ -3,15 +3,14 @@
 Projeto para implementar um jogo de damas feito com:
 - HTML
 - CSS
-- Javascript
-
-## Funcionalidades
-> 
-- Seleção automática de cores para as peças
+- Javascript ( VanillaJS )
 
 ##A Fazer
-> 
-- Movimentação das peças
-- Jogabilidade com as regras
 
-
+[ ] Modal com seleção das cores pelos jogadores
+[ ] Painel com pontuação e peças obtidas do adversário
+[ ] Movimentação das peças
+[ ] Jogabilidade com as regras
+[ ] Implementação do jogo 2 players
+[ ] Implementação do jogo contra máquina
+[ ] Usar backend no-sql para armazenar as jogadas
